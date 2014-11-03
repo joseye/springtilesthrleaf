@@ -1,0 +1,2431 @@
+abc<!DOCTYPE html>def0 
+abc
+def1 
+abc<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->def2 
+abc
+def3 
+abc<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->def4 
+abc
+def5 
+abc<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->def6 
+abc
+def7 
+abc<!-- BEGIN HEAD -->def8 
+abc
+def9 
+abc<head>def10 
+abc
+def11 
+abc	<meta charset="utf-8" />def12 
+abc
+def13 
+abc	<title>Metronic | Layouts - Horzontal Menu 2</title>def14 
+abc
+def15 
+abc	<meta content="width=device-width, initial-scale=1.0" name="viewport" />def16 
+abc
+def17 
+abc	<meta content="" name="description" />def18 
+abc
+def19 
+abc	<meta content="" name="author" />def20 
+abc
+def21 
+abc	<!-- BEGIN GLOBAL MANDATORY STYLES -->def22 
+abc
+def23 
+abc	<link href="media/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>def24 
+abc
+def25 
+abc	<link href="media/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"/>def26 
+abc
+def27 
+abc	<link href="media/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>def28 
+abc
+def29 
+abc	<link href="media/css/style-metro.css" rel="stylesheet" type="text/css"/>def30 
+abc
+def31 
+abc	<link href="media/css/style.css" rel="stylesheet" type="text/css"/>def32 
+abc
+def33 
+abc	<link href="media/css/style-responsive.css" rel="stylesheet" type="text/css"/>def34 
+abc
+def35 
+abc	<link href="media/css/default.css" rel="stylesheet" type="text/css" id="style_color"/>def36 
+abc
+def37 
+abc	<link href="media/css/uniform.default.css" rel="stylesheet" type="text/css"/>def38 
+abc
+def39 
+abc	<!-- END GLOBAL MANDATORY STYLES -->def40 
+abc
+def41 
+abc	<link rel="shortcut icon" href="media/image/favicon.ico" />def42 
+abc
+def43 
+abc</head>def44 
+abc
+def45 
+abc<!-- END HEAD -->def46 
+abc
+def47 
+abc<!-- BEGIN BODY -->def48 
+abc
+def49 
+abc<body class="page-header-fixed page-full-width">def50 
+abc
+def51 
+abc	<!-- BEGIN HEADER -->def52 
+abc
+def53 
+abc	<div class="header navbar navbar-inverse navbar-fixed-top">def54 
+abc
+def55 
+abc		<!-- BEGIN TOP NAVIGATION BAR -->def56 
+abc
+def57 
+abc		<div class="navbar-inner">def58 
+abc
+def59 
+abc			<div class="container-fluid">def60 
+abc
+def61 
+abc				<!-- BEGIN LOGO -->def62 
+abc
+def63 
+abc				<a class="brand" href="index.html">def64 
+abc
+def65 
+abc				<img src="media/image/logo.png" alt="logo" />def66 
+abc
+def67 
+abc				</a>def68 
+abc
+def69 
+abc				<!-- END LOGO -->def70 
+abc
+def71 
+abc				<!-- BEGIN HORIZANTAL MENU -->def72 
+abc
+def73 
+abc				<div class="navbar hor-menu hidden-phone hidden-tablet">def74 
+abc
+def75 
+abc					<div class="navbar-inner">def76 
+abc
+def77 
+abc						<ul class="nav">def78 
+abc
+def79 
+abc							<li class="visible-phone visible-tablet">def80 
+abc
+def81 
+abc								<!-- BEGIN RESPONSIVE QUICK SEARCH FORM -->def82 
+abc
+def83 
+abc								<form class="sidebar-search">def84 
+abc
+def85 
+abc									<div class="input-box">def86 
+abc
+def87 
+abc										<a href="javascript:;" class="remove"></a>def88 
+abc
+def89 
+abc										<input type="text" placeholder="Search..." />            def90 
+abc
+def91 
+abc										<input type="button" class="submit" value=" " />def92 
+abc
+def93 
+abc									</div>def94 
+abc
+def95 
+abc								</form>def96 
+abc
+def97 
+abc								<!-- END RESPONSIVE QUICK SEARCH FORM -->def98 
+abc
+def99 
+abc							</li>def100 
+abc
+def101 
+abc							<li>def102 
+abc
+def103 
+abc								<a href="index.html">def104 
+abc
+def105 
+abc								Dashboarddef106 
+abc
+def107 
+abc								</a>def108 
+abc
+def109 
+abc							</li>def110 
+abc
+def111 
+abc							<li  class="active">def112 
+abc
+def113 
+abc								<a data-toggle="dropdown" class="dropdown-toggle" href="javascript:;">def114 
+abc
+def115 
+abc								<span class="selected"></span>def116 
+abc
+def117 
+abc								Layoutsdef118 
+abc
+def119 
+abc								<span class="arrow"></span>     def120 
+abc
+def121 
+abc								</a>def122 
+abc
+def123 
+abc								<ul class="dropdown-menu">def124 
+abc
+def125 
+abc									<li >def126 
+abc
+def127 
+abc										<a href="layout_horizontal_sidebar_menu.html">def128 
+abc
+def129 
+abc										Horzontal & Sidebar Menu                     </a>def130 
+abc
+def131 
+abc									</li>def132 
+abc
+def133 
+abc									<li >def134 
+abc
+def135 
+abc										<a href="layout_horizontal_menu1.html">def136 
+abc
+def137 
+abc										Horzontal Menu 1                    </a>def138 
+abc
+def139 
+abc									</li>def140 
+abc
+def141 
+abc									<li class="active">def142 
+abc
+def143 
+abc										<a href="layout_horizontal_menu2.html">def144 
+abc
+def145 
+abc										Horzontal Menu 2                    </a>def146 
+abc
+def147 
+abc									</li>def148 
+abc
+def149 
+abc									<li >def150 
+abc
+def151 
+abc										<a href="layout_promo.html">def152 
+abc
+def153 
+abc										Promo Page                    </a>def154 
+abc
+def155 
+abc									</li>def156 
+abc
+def157 
+abc									<li >def158 
+abc
+def159 
+abc										<a href="layout_email.html">def160 
+abc
+def161 
+abc										Email Templates                     </a>def162 
+abc
+def163 
+abc									</li>def164 
+abc
+def165 
+abc									<li >def166 
+abc
+def167 
+abc										<a href="layout_ajax.html">def168 
+abc
+def169 
+abc										Content Loading via Ajax</a>def170 
+abc
+def171 
+abc									</li>def172 
+abc
+def173 
+abc									<li >def174 
+abc
+def175 
+abc										<a href="layout_sidebar_closed.html">def176 
+abc
+def177 
+abc										Sidebar Closed Page                    </a>def178 
+abc
+def179 
+abc									</li>def180 
+abc
+def181 
+abc									<li >def182 
+abc
+def183 
+abc										<a href="layout_blank_page.html">def184 
+abc
+def185 
+abc										Blank Page                    </a>def186 
+abc
+def187 
+abc									</li>def188 
+abc
+def189 
+abc									<li >def190 
+abc
+def191 
+abc										<a href="layout_boxed_page.html">Boxed Page</a>def192 
+abc
+def193 
+abc									</li>def194 
+abc
+def195 
+abc									<li >def196 
+abc
+def197 
+abc										<a href="layout_boxed_not_responsive.html">def198 
+abc
+def199 
+abc										Non-Responsive Boxed Layout                     </a>def200 
+abc
+def201 
+abc									</li>def202 
+abc
+def203 
+abc									<li class="dropdown-submenu">def204 
+abc
+def205 
+abc										<a tabindex="-1" href="javascript:;">def206 
+abc
+def207 
+abc										More optionsdef208 
+abc
+def209 
+abc										<span class="arrow"></span>def210 
+abc
+def211 
+abc										</a>def212 
+abc
+def213 
+abc										<ul class="dropdown-menu">def214 
+abc
+def215 
+abc											<li><a tabindex="-1" href="#">Second level link</a></li>def216 
+abc
+def217 
+abc											<li class="dropdown-submenu">def218 
+abc
+def219 
+abc												<a tabindex="-1" href="javascript:;">More options<span class="arrow"></span></a>def220 
+abc
+def221 
+abc												<ul class="dropdown-menu">def222 
+abc
+def223 
+abc													<li><a tabindex="-1" href="index.html">Third level link</a></li>def224 
+abc
+def225 
+abc													<li><a tabindex="-1" href="index.html">Third level link</a></li>def226 
+abc
+def227 
+abc													<li><a tabindex="-1" href="index.html">Third level link</a></li>def228 
+abc
+def229 
+abc													<li><a tabindex="-1" href="index.html">Third level link</a></li>def230 
+abc
+def231 
+abc													<li><a tabindex="-1" href="index.html">Third level link</a></li>def232 
+abc
+def233 
+abc												</ul>def234 
+abc
+def235 
+abc											</li>def236 
+abc
+def237 
+abc											<li><a tabindex="-1" href="index.html">Second level link</a></li>def238 
+abc
+def239 
+abc											<li><a tabindex="-1" href="index.html">Second level link</a></li>def240 
+abc
+def241 
+abc											<li><a tabindex="-1" href="index.html">Second level link</a></li>def242 
+abc
+def243 
+abc										</ul>def244 
+abc
+def245 
+abc									</li>def246 
+abc
+def247 
+abc								</ul>def248 
+abc
+def249 
+abc								<b class="caret-out"></b>                        def250 
+abc
+def251 
+abc							</li>def252 
+abc
+def253 
+abc							<li>def254 
+abc
+def255 
+abc								<a href="">Tables</a>def256 
+abc
+def257 
+abc							</li>def258 
+abc
+def259 
+abc							<li>def260 
+abc
+def261 
+abc								<a data-toggle="dropdown" class="dropdown-toggle" href="">Extradef262 
+abc
+def263 
+abc								<span class="arrow"></span>def264 
+abc
+def265 
+abc								</a>def266 
+abc
+def267 
+abc								<ul class="dropdown-menu">def268 
+abc
+def269 
+abc									<li><a href="index.html">About Us</a></li>def270 
+abc
+def271 
+abc									<li><a href="index.html">Services</a></li>def272 
+abc
+def273 
+abc									<li><a href="index.html">Pricing</a></li>def274 
+abc
+def275 
+abc									<li><a href="index.html">FAQs</a></li>def276 
+abc
+def277 
+abc									<li><a href="index.html">Gallery</a></li>def278 
+abc
+def279 
+abc									<li><a href="index.html">Registration</a></li>def280 
+abc
+def281 
+abc									<li><a href="index.html">2 Columns (Left)</a></li>def282 
+abc
+def283 
+abc									<li><a href="index.html">2 Columns (Right)</a></li>def284 
+abc
+def285 
+abc								</ul>def286 
+abc
+def287 
+abc								<b class="caret-out"></b>                        def288 
+abc
+def289 
+abc							</li>def290 
+abc
+def291 
+abc							<li>def292 
+abc
+def293 
+abc								<span class="hor-menu-search-form-toggler">&nbsp;</span>def294 
+abc
+def295 
+abc								<div class="search-form hidden-phone hidden-tablet">def296 
+abc
+def297 
+abc									<form class="form-search">def298 
+abc
+def299 
+abc										<div class="input-append">def300 
+abc
+def301 
+abc											<input type="text" placeholder="Search..." class="m-wrap">def302 
+abc
+def303 
+abc											<button type="button" class="btn"></button>def304 
+abc
+def305 
+abc										</div>def306 
+abc
+def307 
+abc									</form>def308 
+abc
+def309 
+abc								</div>def310 
+abc
+def311 
+abc							</li>def312 
+abc
+def313 
+abc						</ul>def314 
+abc
+def315 
+abc					</div>def316 
+abc
+def317 
+abc				</div>def318 
+abc
+def319 
+abc				<!-- END HORIZANTAL MENU -->def320 
+abc
+def321 
+abc				<!-- BEGIN RESPONSIVE MENU TOGGLER -->def322 
+abc
+def323 
+abc				<a href="javascript:;" class="btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">def324 
+abc
+def325 
+abc				<img src="media/image/menu-toggler.png" alt="" />def326 
+abc
+def327 
+abc				</a>          def328 
+abc
+def329 
+abc				<!-- END RESPONSIVE MENU TOGGLER -->            def330 
+abc
+def331 
+abc				<!-- BEGIN TOP NAVIGATION MENU -->              def332 
+abc
+def333 
+abc				<ul class="nav pull-right">def334 
+abc
+def335 
+abc					<!-- BEGIN NOTIFICATION DROPDOWN -->   def336 
+abc
+def337 
+abc					<li class="dropdown" id="header_notification_bar">def338 
+abc
+def339 
+abc						<a href="#" class="dropdown-toggle" data-toggle="dropdown">def340 
+abc
+def341 
+abc						<i class="icon-warning-sign"></i>def342 
+abc
+def343 
+abc						<span class="badge">6</span>def344 
+abc
+def345 
+abc						</a>def346 
+abc
+def347 
+abc						<ul class="dropdown-menu extended notification">def348 
+abc
+def349 
+abc							<li>def350 
+abc
+def351 
+abc								<p>You have 14 new notifications</p>def352 
+abc
+def353 
+abc							</li>def354 
+abc
+def355 
+abc							<li>def356 
+abc
+def357 
+abc								<a href="#">def358 
+abc
+def359 
+abc								<span class="label label-success"><i class="icon-plus"></i></span>def360 
+abc
+def361 
+abc								New user registered. def362 
+abc
+def363 
+abc								<span class="time">Just now</span>def364 
+abc
+def365 
+abc								</a>def366 
+abc
+def367 
+abc							</li>def368 
+abc
+def369 
+abc							<li>def370 
+abc
+def371 
+abc								<a href="#">def372 
+abc
+def373 
+abc								<span class="label label-important"><i class="icon-bolt"></i></span>def374 
+abc
+def375 
+abc								Server #12 overloaded. def376 
+abc
+def377 
+abc								<span class="time">15 mins</span>def378 
+abc
+def379 
+abc								</a>def380 
+abc
+def381 
+abc							</li>def382 
+abc
+def383 
+abc							<li>def384 
+abc
+def385 
+abc								<a href="#">def386 
+abc
+def387 
+abc								<span class="label label-warning"><i class="icon-bell"></i></span>def388 
+abc
+def389 
+abc								Server #2 not respoding.def390 
+abc
+def391 
+abc								<span class="time">22 mins</span>def392 
+abc
+def393 
+abc								</a>def394 
+abc
+def395 
+abc							</li>def396 
+abc
+def397 
+abc							<li>def398 
+abc
+def399 
+abc								<a href="#">def400 
+abc
+def401 
+abc								<span class="label label-info"><i class="icon-bullhorn"></i></span>def402 
+abc
+def403 
+abc								Application error.def404 
+abc
+def405 
+abc								<span class="time">40 mins</span>def406 
+abc
+def407 
+abc								</a>def408 
+abc
+def409 
+abc							</li>def410 
+abc
+def411 
+abc							<li>def412 
+abc
+def413 
+abc								<a href="#">def414 
+abc
+def415 
+abc								<span class="label label-important"><i class="icon-bolt"></i></span>def416 
+abc
+def417 
+abc								Database overloaded 68%. def418 
+abc
+def419 
+abc								<span class="time">2 hrs</span>def420 
+abc
+def421 
+abc								</a>def422 
+abc
+def423 
+abc							</li>def424 
+abc
+def425 
+abc							<li>def426 
+abc
+def427 
+abc								<a href="#">def428 
+abc
+def429 
+abc								<span class="label label-important"><i class="icon-bolt"></i></span>def430 
+abc
+def431 
+abc								2 user IP blocked.def432 
+abc
+def433 
+abc								<span class="time">5 hrs</span>def434 
+abc
+def435 
+abc								</a>def436 
+abc
+def437 
+abc							</li>def438 
+abc
+def439 
+abc							<li class="external">def440 
+abc
+def441 
+abc								<a href="#">See all notifications <i class="m-icon-swapright"></i></a>def442 
+abc
+def443 
+abc							</li>def444 
+abc
+def445 
+abc						</ul>def446 
+abc
+def447 
+abc					</li>def448 
+abc
+def449 
+abc					<!-- END NOTIFICATION DROPDOWN -->def450 
+abc
+def451 
+abc					<!-- BEGIN INBOX DROPDOWN -->def452 
+abc
+def453 
+abc					<li class="dropdown" id="header_inbox_bar">def454 
+abc
+def455 
+abc						<a href="#" class="dropdown-toggle" data-toggle="dropdown">def456 
+abc
+def457 
+abc						<i class="icon-envelope"></i>def458 
+abc
+def459 
+abc						<span class="badge">5</span>def460 
+abc
+def461 
+abc						</a>def462 
+abc
+def463 
+abc						<ul class="dropdown-menu extended inbox">def464 
+abc
+def465 
+abc							<li>def466 
+abc
+def467 
+abc								<p>You have 12 new messages</p>def468 
+abc
+def469 
+abc							</li>def470 
+abc
+def471 
+abc							<li>def472 
+abc
+def473 
+abc								<a href="inbox.html?a=view">def474 
+abc
+def475 
+abc								<span class="photo"><img src="media/image/avatar2.jpg" alt="" /></span>def476 
+abc
+def477 
+abc								<span class="subject">def478 
+abc
+def479 
+abc								<span class="from">Lisa Wong</span>def480 
+abc
+def481 
+abc								<span class="time">Just Now</span>def482 
+abc
+def483 
+abc								</span>def484 
+abc
+def485 
+abc								<span class="message">def486 
+abc
+def487 
+abc								Vivamus sed auctor nibh congue nibh. auctor nibhdef488 
+abc
+def489 
+abc								auctor nibh...def490 
+abc
+def491 
+abc								</span>  def492 
+abc
+def493 
+abc								</a>def494 
+abc
+def495 
+abc							</li>def496 
+abc
+def497 
+abc							<li>def498 
+abc
+def499 
+abc								<a href="inbox.html?a=view">def500 
+abc
+def501 
+abc								<span class="photo"><img src="media/image/avatar3.jpg" alt="" /></span>def502 
+abc
+def503 
+abc								<span class="subject">def504 
+abc
+def505 
+abc								<span class="from">Richard Doe</span>def506 
+abc
+def507 
+abc								<span class="time">16 mins</span>def508 
+abc
+def509 
+abc								</span>def510 
+abc
+def511 
+abc								<span class="message">def512 
+abc
+def513 
+abc								Vivamus sed congue nibh auctor nibh congue nibh. auctor nibhdef514 
+abc
+def515 
+abc								auctor nibh...def516 
+abc
+def517 
+abc								</span>  def518 
+abc
+def519 
+abc								</a>def520 
+abc
+def521 
+abc							</li>def522 
+abc
+def523 
+abc							<li>def524 
+abc
+def525 
+abc								<a href="inbox.html?a=view">def526 
+abc
+def527 
+abc								<span class="photo"><img src="media/image/avatar1.jpg" alt="" /></span>def528 
+abc
+def529 
+abc								<span class="subject">def530 
+abc
+def531 
+abc								<span class="from">Bob Nilson</span>def532 
+abc
+def533 
+abc								<span class="time">2 hrs</span>def534 
+abc
+def535 
+abc								</span>def536 
+abc
+def537 
+abc								<span class="message">def538 
+abc
+def539 
+abc								Vivamus sed nibh auctor nibh congue nibh. auctor nibhdef540 
+abc
+def541 
+abc								auctor nibh...def542 
+abc
+def543 
+abc								</span>  def544 
+abc
+def545 
+abc								</a>def546 
+abc
+def547 
+abc							</li>def548 
+abc
+def549 
+abc							<li class="external">def550 
+abc
+def551 
+abc								<a href="inbox.html">See all messages <i class="m-icon-swapright"></i></a>def552 
+abc
+def553 
+abc							</li>def554 
+abc
+def555 
+abc						</ul>def556 
+abc
+def557 
+abc					</li>def558 
+abc
+def559 
+abc					<!-- END INBOX DROPDOWN -->def560 
+abc
+def561 
+abc					<!-- BEGIN TODO DROPDOWN -->def562 
+abc
+def563 
+abc					<li class="dropdown" id="header_task_bar">def564 
+abc
+def565 
+abc						<a href="#" class="dropdown-toggle" data-toggle="dropdown">def566 
+abc
+def567 
+abc						<i class="icon-tasks"></i>def568 
+abc
+def569 
+abc						<span class="badge">5</span>def570 
+abc
+def571 
+abc						</a>def572 
+abc
+def573 
+abc						<ul class="dropdown-menu extended tasks">def574 
+abc
+def575 
+abc							<li>def576 
+abc
+def577 
+abc								<p>You have 12 pending tasks</p>def578 
+abc
+def579 
+abc							</li>def580 
+abc
+def581 
+abc							<li>def582 
+abc
+def583 
+abc								<a href="#">def584 
+abc
+def585 
+abc								<span class="task">def586 
+abc
+def587 
+abc								<span class="desc">New release v1.2</span>def588 
+abc
+def589 
+abc								<span class="percent">30%</span>def590 
+abc
+def591 
+abc								</span>def592 
+abc
+def593 
+abc								<span class="progress progress-success ">def594 
+abc
+def595 
+abc								<span style="width: 30%;" class="bar"></span>def596 
+abc
+def597 
+abc								</span>def598 
+abc
+def599 
+abc								</a>def600 
+abc
+def601 
+abc							</li>def602 
+abc
+def603 
+abc							<li>def604 
+abc
+def605 
+abc								<a href="#">def606 
+abc
+def607 
+abc								<span class="task">def608 
+abc
+def609 
+abc								<span class="desc">Application deployment</span>def610 
+abc
+def611 
+abc								<span class="percent">65%</span>def612 
+abc
+def613 
+abc								</span>def614 
+abc
+def615 
+abc								<span class="progress progress-danger progress-striped active">def616 
+abc
+def617 
+abc								<span style="width: 65%;" class="bar"></span>def618 
+abc
+def619 
+abc								</span>def620 
+abc
+def621 
+abc								</a>def622 
+abc
+def623 
+abc							</li>def624 
+abc
+def625 
+abc							<li>def626 
+abc
+def627 
+abc								<a href="#">def628 
+abc
+def629 
+abc								<span class="task">def630 
+abc
+def631 
+abc								<span class="desc">Mobile app release</span>def632 
+abc
+def633 
+abc								<span class="percent">98%</span>def634 
+abc
+def635 
+abc								</span>def636 
+abc
+def637 
+abc								<span class="progress progress-success">def638 
+abc
+def639 
+abc								<span style="width: 98%;" class="bar"></span>def640 
+abc
+def641 
+abc								</span>def642 
+abc
+def643 
+abc								</a>def644 
+abc
+def645 
+abc							</li>def646 
+abc
+def647 
+abc							<li>def648 
+abc
+def649 
+abc								<a href="#">def650 
+abc
+def651 
+abc								<span class="task">def652 
+abc
+def653 
+abc								<span class="desc">Database migration</span>def654 
+abc
+def655 
+abc								<span class="percent">10%</span>def656 
+abc
+def657 
+abc								</span>def658 
+abc
+def659 
+abc								<span class="progress progress-warning progress-striped">def660 
+abc
+def661 
+abc								<span style="width: 10%;" class="bar"></span>def662 
+abc
+def663 
+abc								</span>def664 
+abc
+def665 
+abc								</a>def666 
+abc
+def667 
+abc							</li>def668 
+abc
+def669 
+abc							<li>def670 
+abc
+def671 
+abc								<a href="#">def672 
+abc
+def673 
+abc								<span class="task">def674 
+abc
+def675 
+abc								<span class="desc">Web server upgrade</span>def676 
+abc
+def677 
+abc								<span class="percent">58%</span>def678 
+abc
+def679 
+abc								</span>def680 
+abc
+def681 
+abc								<span class="progress progress-info">def682 
+abc
+def683 
+abc								<span style="width: 58%;" class="bar"></span>def684 
+abc
+def685 
+abc								</span>def686 
+abc
+def687 
+abc								</a>def688 
+abc
+def689 
+abc							</li>def690 
+abc
+def691 
+abc							<li>def692 
+abc
+def693 
+abc								<a href="#">def694 
+abc
+def695 
+abc								<span class="task">def696 
+abc
+def697 
+abc								<span class="desc">Mobile development</span>def698 
+abc
+def699 
+abc								<span class="percent">85%</span>def700 
+abc
+def701 
+abc								</span>def702 
+abc
+def703 
+abc								<span class="progress progress-success">def704 
+abc
+def705 
+abc								<span style="width: 85%;" class="bar"></span>def706 
+abc
+def707 
+abc								</span>def708 
+abc
+def709 
+abc								</a>def710 
+abc
+def711 
+abc							</li>def712 
+abc
+def713 
+abc							<li class="external">def714 
+abc
+def715 
+abc								<a href="#">See all tasks <i class="m-icon-swapright"></i></a>def716 
+abc
+def717 
+abc							</li>def718 
+abc
+def719 
+abc						</ul>def720 
+abc
+def721 
+abc					</li>def722 
+abc
+def723 
+abc					<!-- END TODO DROPDOWN -->def724 
+abc
+def725 
+abc					<!-- BEGIN USER LOGIN DROPDOWN -->def726 
+abc
+def727 
+abc					<li class="dropdown user">def728 
+abc
+def729 
+abc						<a href="#" class="dropdown-toggle" data-toggle="dropdown">def730 
+abc
+def731 
+abc						<img alt="" src="media/image/avatar1_small.jpg" />def732 
+abc
+def733 
+abc						<span class="username">Bob Nilson</span>def734 
+abc
+def735 
+abc						<i class="icon-angle-down"></i>def736 
+abc
+def737 
+abc						</a>def738 
+abc
+def739 
+abc						<ul class="dropdown-menu">def740 
+abc
+def741 
+abc							<li><a href="extra_profile.html"><i class="icon-user"></i> My Profile</a></li>def742 
+abc
+def743 
+abc							<li><a href="page_calendar.html"><i class="icon-calendar"></i> My Calendar</a></li>def744 
+abc
+def745 
+abc							<li><a href="inbox.html"><i class="icon-envelope"></i> My Inbox(3)</a></li>def746 
+abc
+def747 
+abc							<li><a href="#"><i class="icon-tasks"></i> My Tasks</a></li>def748 
+abc
+def749 
+abc							<li class="divider"></li>def750 
+abc
+def751 
+abc							<li><a href="extra_lock.html"><i class="icon-lock"></i> Lock Screen</a></li>def752 
+abc
+def753 
+abc							<li><a href="login.html"><i class="icon-key"></i> Log Out</a></li>def754 
+abc
+def755 
+abc						</ul>def756 
+abc
+def757 
+abc					</li>def758 
+abc
+def759 
+abc					<!-- END USER LOGIN DROPDOWN -->def760 
+abc
+def761 
+abc				</ul>def762 
+abc
+def763 
+abc				<!-- END TOP NAVIGATION MENU --> def764 
+abc
+def765 
+abc			</div>def766 
+abc
+def767 
+abc		</div>def768 
+abc
+def769 
+abc		<!-- END TOP NAVIGATION BAR -->def770 
+abc
+def771 
+abc	</div>def772 
+abc
+def773 
+abc	<!-- END HEADER -->def774 
+abc
+def775 
+abc	<!-- BEGIN CONTAINER -->   def776 
+abc
+def777 
+abc	<div class="page-container row-fluid">def778 
+abc
+def779 
+abc		<!-- BEGIN EMPTY PAGE SIDEBAR -->def780 
+abc
+def781 
+abc		<div class="page-sidebar nav-collapse collapse visible-phone visible-tablet">def782 
+abc
+def783 
+abc			<ul class="page-sidebar-menu">def784 
+abc
+def785 
+abc				<li class="visible-phone visible-tablet">def786 
+abc
+def787 
+abc					<!-- BEGIN RESPONSIVE QUICK SEARCH FORM -->def788 
+abc
+def789 
+abc					<form class="sidebar-search">def790 
+abc
+def791 
+abc						<div class="input-box">def792 
+abc
+def793 
+abc							<a href="javascript:;" class="remove"></a>def794 
+abc
+def795 
+abc							<input type="text" placeholder="Search..." />            def796 
+abc
+def797 
+abc							<input type="button" class="submit" value=" " />def798 
+abc
+def799 
+abc						</div>def800 
+abc
+def801 
+abc					</form>def802 
+abc
+def803 
+abc					<!-- END RESPONSIVE QUICK SEARCH FORM -->def804 
+abc
+def805 
+abc				</li>def806 
+abc
+def807 
+abc				<li>def808 
+abc
+def809 
+abc					<a class="active" href="index.html">def810 
+abc
+def811 
+abc					Dashboard                        def812 
+abc
+def813 
+abc					</a>def814 
+abc
+def815 
+abc				</li>def816 
+abc
+def817 
+abc				<li  class="active">def818 
+abc
+def819 
+abc					<a href="javascript:;">def820 
+abc
+def821 
+abc					Layoutsdef822 
+abc
+def823 
+abc					<span class="arrow open"></span>   def824 
+abc
+def825 
+abc					<span class="selected"></span>   def826 
+abc
+def827 
+abc					</a>def828 
+abc
+def829 
+abc					<ul class="sub-menu">def830 
+abc
+def831 
+abc						<li >def832 
+abc
+def833 
+abc							<a href="layout_horizontal_sidebar_menu.html">def834 
+abc
+def835 
+abc							Horzontal & Sidebar Menu                     </a>def836 
+abc
+def837 
+abc						</li>def838 
+abc
+def839 
+abc						<li >def840 
+abc
+def841 
+abc							<a href="layout_horizontal_menu1.html">def842 
+abc
+def843 
+abc							Horzontal Menu 1                    </a>def844 
+abc
+def845 
+abc						</li>def846 
+abc
+def847 
+abc						<li class="active">def848 
+abc
+def849 
+abc							<a href="layout_horizontal_menu2.html">def850 
+abc
+def851 
+abc							Horzontal Menu 2                    </a>def852 
+abc
+def853 
+abc						</li>def854 
+abc
+def855 
+abc						<li >def856 
+abc
+def857 
+abc							<a href="layout_promo.html">def858 
+abc
+def859 
+abc							Promo Page                    </a>def860 
+abc
+def861 
+abc						</li>def862 
+abc
+def863 
+abc						<li >def864 
+abc
+def865 
+abc							<a href="layout_email.html">def866 
+abc
+def867 
+abc							Email Templates                     </a>def868 
+abc
+def869 
+abc						</li>def870 
+abc
+def871 
+abc						<li >def872 
+abc
+def873 
+abc							<a href="layout_ajax.html">def874 
+abc
+def875 
+abc							Content Loading via Ajax</a>def876 
+abc
+def877 
+abc						</li>def878 
+abc
+def879 
+abc						<li >def880 
+abc
+def881 
+abc							<a href="layout_sidebar_closed.html">def882 
+abc
+def883 
+abc							Sidebar Closed Page                    </a>def884 
+abc
+def885 
+abc						</li>def886 
+abc
+def887 
+abc						<li >def888 
+abc
+def889 
+abc							<a href="layout_blank_page.html">def890 
+abc
+def891 
+abc							Blank Page                    </a>def892 
+abc
+def893 
+abc						</li>def894 
+abc
+def895 
+abc						<li >def896 
+abc
+def897 
+abc							<a href="layout_boxed_page.html">Boxed Page</a>def898 
+abc
+def899 
+abc						</li>def900 
+abc
+def901 
+abc						<li >def902 
+abc
+def903 
+abc							<a href="layout_boxed_not_responsive.html">def904 
+abc
+def905 
+abc							Non-Responsive Boxed Layout                     </a>def906 
+abc
+def907 
+abc						</li>def908 
+abc
+def909 
+abc						<li>def910 
+abc
+def911 
+abc							<a href="javascript:;">def912 
+abc
+def913 
+abc							More optionsdef914 
+abc
+def915 
+abc							<span class="arrow"></span>def916 
+abc
+def917 
+abc							</a>def918 
+abc
+def919 
+abc							<ul class="sub-menu">def920 
+abc
+def921 
+abc								<li><a href="#">Second level link</a></li>def922 
+abc
+def923 
+abc								<li>def924 
+abc
+def925 
+abc									<a href="javascript:;">More options<span class="arrow"></span></a>def926 
+abc
+def927 
+abc									<ul class="sub-menu">def928 
+abc
+def929 
+abc										<li><a href="index.html">Third level link</a></li>def930 
+abc
+def931 
+abc										<li><a href="index.html">Third level link</a></li>def932 
+abc
+def933 
+abc										<li><a href="index.html">Third level link</a></li>def934 
+abc
+def935 
+abc										<li><a href="index.html">Third level link</a></li>def936 
+abc
+def937 
+abc										<li><a href="index.html">Third level link</a></li>def938 
+abc
+def939 
+abc									</ul>def940 
+abc
+def941 
+abc								</li>def942 
+abc
+def943 
+abc								<li><a href="index.html">Second level link</a></li>def944 
+abc
+def945 
+abc								<li><a href="index.html">Second level link</a></li>def946 
+abc
+def947 
+abc								<li><a href="index.html">Second level link</a></li>def948 
+abc
+def949 
+abc							</ul>def950 
+abc
+def951 
+abc						</li>def952 
+abc
+def953 
+abc					</ul>def954 
+abc
+def955 
+abc				</li>def956 
+abc
+def957 
+abc				<li>def958 
+abc
+def959 
+abc					<a href="">Tables</a>def960 
+abc
+def961 
+abc				</li>def962 
+abc
+def963 
+abc				<li>def964 
+abc
+def965 
+abc					<a href="">Extradef966 
+abc
+def967 
+abc					<span class="arrow"></span>def968 
+abc
+def969 
+abc					</a>def970 
+abc
+def971 
+abc					<ul class="sub-menu">def972 
+abc
+def973 
+abc						<li><a href="index.html">About Us</a></li>def974 
+abc
+def975 
+abc						<li><a href="index.html">Services</a></li>def976 
+abc
+def977 
+abc						<li><a href="index.html">Pricing</a></li>def978 
+abc
+def979 
+abc						<li><a href="index.html">FAQs</a></li>def980 
+abc
+def981 
+abc						<li><a href="index.html">Gallery</a></li>def982 
+abc
+def983 
+abc						<li><a href="index.html">Registration</a></li>def984 
+abc
+def985 
+abc						<li><a href="index.html">2 Columns (Left)</a></li>def986 
+abc
+def987 
+abc						<li><a href="index.html">2 Columns (Right)</a></li>def988 
+abc
+def989 
+abc					</ul>def990 
+abc
+def991 
+abc				</li>def992 
+abc
+def993 
+abc			</ul>def994 
+abc
+def995 
+abc		</div>def996 
+abc
+def997 
+abc		<!-- END EMPTY PAGE SIDEBAR -->def998 
+abc
+def999 
+abc		<!-- BEGIN PAGE -->def1000 
+abc
+def1001 
+abc		<div class="page-content">def1002 
+abc
+def1003 
+abc			<!-- BEGIN SAMPLE PORTLET CONFIGURATION MODAL FORM-->def1004 
+abc
+def1005 
+abc			<div id="portlet-config" class="modal hide">def1006 
+abc
+def1007 
+abc				<div class="modal-header">def1008 
+abc
+def1009 
+abc					<button data-dismiss="modal" class="close" type="button"></button>def1010 
+abc
+def1011 
+abc					<h3>portlet Settings</h3>def1012 
+abc
+def1013 
+abc				</div>def1014 
+abc
+def1015 
+abc				<div class="modal-body">def1016 
+abc
+def1017 
+abc					<p>Here will be a configuration form</p>def1018 
+abc
+def1019 
+abc				</div>def1020 
+abc
+def1021 
+abc			</div>def1022 
+abc
+def1023 
+abc			<!-- END SAMPLE PORTLET CONFIGURATION MODAL FORM-->def1024 
+abc
+def1025 
+abc			<!-- BEGIN PAGE CONTAINER-->def1026 
+abc
+def1027 
+abc			<div class="container-fluid">def1028 
+abc
+def1029 
+abc				<div class="row-fluid">def1030 
+abc
+def1031 
+abc					<div class="span3 sidebar-content ">def1032 
+abc
+def1033 
+abc						<ul class="ver-inline-menu tabbable margin-bottom-25">def1034 
+abc
+def1035 
+abc							<li class="active">def1036 
+abc
+def1037 
+abc								<a href="#tab_1" data-toggle="tab">def1038 
+abc
+def1039 
+abc								<i class="icon-briefcase"></i> def1040 
+abc
+def1041 
+abc								General Questionsdef1042 
+abc
+def1043 
+abc								</a> def1044 
+abc
+def1045 
+abc								<span class="after"></span>                                    def1046 
+abc
+def1047 
+abc							</li>def1048 
+abc
+def1049 
+abc							<li><a href="#tab_2" data-toggle="tab"><i class="icon-group"></i> Membership</a></li>def1050 
+abc
+def1051 
+abc							<li><a href="#tab_3" data-toggle="tab"><i class="icon-leaf"></i> Terms Of Service</a></li>def1052 
+abc
+def1053 
+abc							<li><a href="#tab_1" data-toggle="tab"><i class="icon-info-sign"></i> License Terms</a></li>def1054 
+abc
+def1055 
+abc							<li><a href="#tab_2" data-toggle="tab"><i class="icon-tint"></i> Payment Rules</a></li>def1056 
+abc
+def1057 
+abc							<li><a href="#tab_3" data-toggle="tab"><i class="icon-plus"></i> Other Questions</a></li>def1058 
+abc
+def1059 
+abc							<li><a href="#tab_3" data-toggle="tab"><i class="icon-tasks"></i> Taks & Resources</a></li>def1060 
+abc
+def1061 
+abc							<li><a href="#tab_3" data-toggle="tab"><i class="icon-user"></i> User Management</a></li>def1062 
+abc
+def1063 
+abc						</ul>def1064 
+abc
+def1065 
+abc						<!-- BEGIN PORTLET-->def1066 
+abc
+def1067 
+abc						<div class="portlet box green">def1068 
+abc
+def1069 
+abc							<div class="portlet-title line">def1070 
+abc
+def1071 
+abc								<div class="caption"><i class="icon-comments"></i>Quick Form</div>def1072 
+abc
+def1073 
+abc								<div class="tools">def1074 
+abc
+def1075 
+abc									<a href="javascript:;" class="collapse"></a>def1076 
+abc
+def1077 
+abc									<a href="#portlet-config" data-toggle="modal" class="config"></a>def1078 
+abc
+def1079 
+abc								</div>def1080 
+abc
+def1081 
+abc							</div>def1082 
+abc
+def1083 
+abc							<div class="portlet-body">def1084 
+abc
+def1085 
+abc								<h4>Create Record</h4>def1086 
+abc
+def1087 
+abc								<form action="#">def1088 
+abc
+def1089 
+abc									<div class="input-icon left">def1090 
+abc
+def1091 
+abc										<i class="icon-envelope"></i>def1092 
+abc
+def1093 
+abc										<input type="text" class="m-wrap span12" placeholder="Title" />def1094 
+abc
+def1095 
+abc									</div>def1096 
+abc
+def1097 
+abc									<div class="input-icon left">                                          def1098 
+abc
+def1099 
+abc										<i class="icon-envelope"></i>def1100 
+abc
+def1101 
+abc										<input type="password" class="m-wrap span12" placeholder="Email" />def1102 
+abc
+def1103 
+abc									</div>def1104 
+abc
+def1105 
+abc									<div class="input-icon left">                                          def1106 
+abc
+def1107 
+abc										<i class="icon-lock"></i>def1108 
+abc
+def1109 
+abc										<input type="password" class="m-wrap span12" placeholder="Remarks" />def1110 
+abc
+def1111 
+abc									</div>def1112 
+abc
+def1113 
+abc									<label class="checkbox">def1114 
+abc
+def1115 
+abc									<input type="checkbox" /> Notify admindef1116 
+abc
+def1117 
+abc									</label>def1118 
+abc
+def1119 
+abc									<button type="submit" class="btn purple">Submit</button>def1120 
+abc
+def1121 
+abc								</form>def1122 
+abc
+def1123 
+abc							</div>def1124 
+abc
+def1125 
+abc						</div>def1126 
+abc
+def1127 
+abc						<!-- END PORTLET-->def1128 
+abc
+def1129 
+abc					</div>def1130 
+abc
+def1131 
+abc					<div class="span9 ">def1132 
+abc
+def1133 
+abc						<!-- BEGIN PAGE HEADER-->def1134 
+abc
+def1135 
+abc						<div class="row-fluid">def1136 
+abc
+def1137 
+abc							<div class="span12">def1138 
+abc
+def1139 
+abc								<!-- BEGIN STYLE CUSTOMIZER -->def1140 
+abc
+def1141 
+abc								<div class="color-panel hidden-phone">def1142 
+abc
+def1143 
+abc									<div class="color-mode-icons icon-color"></div>def1144 
+abc
+def1145 
+abc									<div class="color-mode-icons icon-color-close"></div>def1146 
+abc
+def1147 
+abc									<div class="color-mode">def1148 
+abc
+def1149 
+abc										<p>THEME COLOR</p>def1150 
+abc
+def1151 
+abc										<ul class="inline">def1152 
+abc
+def1153 
+abc											<li class="color-black current color-default" data-style="default"></li>def1154 
+abc
+def1155 
+abc											<li class="color-blue" data-style="blue"></li>def1156 
+abc
+def1157 
+abc											<li class="color-brown" data-style="brown"></li>def1158 
+abc
+def1159 
+abc											<li class="color-purple" data-style="purple"></li>def1160 
+abc
+def1161 
+abc											<li class="color-grey" data-style="grey"></li>def1162 
+abc
+def1163 
+abc											<li class="color-white color-light" data-style="light"></li>def1164 
+abc
+def1165 
+abc										</ul>def1166 
+abc
+def1167 
+abc										<label>def1168 
+abc
+def1169 
+abc											<span>Layout</span>def1170 
+abc
+def1171 
+abc											<select class="layout-option m-wrap small">def1172 
+abc
+def1173 
+abc												<option value="fluid" selected>Fluid</option>def1174 
+abc
+def1175 
+abc												<option value="boxed">Boxed</option>def1176 
+abc
+def1177 
+abc											</select>def1178 
+abc
+def1179 
+abc										</label>def1180 
+abc
+def1181 
+abc										<label>def1182 
+abc
+def1183 
+abc											<span>Header</span>def1184 
+abc
+def1185 
+abc											<select class="header-option m-wrap small">def1186 
+abc
+def1187 
+abc												<option value="fixed" selected>Fixed</option>def1188 
+abc
+def1189 
+abc												<option value="default">Default</option>def1190 
+abc
+def1191 
+abc											</select>def1192 
+abc
+def1193 
+abc										</label>def1194 
+abc
+def1195 
+abc										<label>def1196 
+abc
+def1197 
+abc											<span>Sidebar</span>def1198 
+abc
+def1199 
+abc											<select class="sidebar-option m-wrap small">def1200 
+abc
+def1201 
+abc												<option value="fixed">Fixed</option>def1202 
+abc
+def1203 
+abc												<option value="default" selected>Default</option>def1204 
+abc
+def1205 
+abc											</select>def1206 
+abc
+def1207 
+abc										</label>def1208 
+abc
+def1209 
+abc										<label>def1210 
+abc
+def1211 
+abc											<span>Footer</span>def1212 
+abc
+def1213 
+abc											<select class="footer-option m-wrap small">def1214 
+abc
+def1215 
+abc												<option value="fixed">Fixed</option>def1216 
+abc
+def1217 
+abc												<option value="default" selected>Default</option>def1218 
+abc
+def1219 
+abc											</select>def1220 
+abc
+def1221 
+abc										</label>def1222 
+abc
+def1223 
+abc									</div>def1224 
+abc
+def1225 
+abc								</div>def1226 
+abc
+def1227 
+abc								<!-- END BEGIN STYLE CUSTOMIZER --> def1228 
+abc
+def1229 
+abc								<!-- BEGIN PAGE TITLE & BREADCRUMB-->def1230 
+abc
+def1231 
+abc								<h3 class="page-title">def1232 
+abc
+def1233 
+abc									Horzontal Menu 2 <small>horizontal menu layout with sidebar tools</small>def1234 
+abc
+def1235 
+abc								</h3>def1236 
+abc
+def1237 
+abc								<ul class="breadcrumb">def1238 
+abc
+def1239 
+abc									<li>def1240 
+abc
+def1241 
+abc										<i class="icon-home"></i>def1242 
+abc
+def1243 
+abc										<a href="index.html">Home</a> def1244 
+abc
+def1245 
+abc										<i class="icon-angle-right"></i>def1246 
+abc
+def1247 
+abc									</li>def1248 
+abc
+def1249 
+abc									<li>def1250 
+abc
+def1251 
+abc										<a href="#">Layouts</a>def1252 
+abc
+def1253 
+abc										<i class="icon-angle-right"></i>def1254 
+abc
+def1255 
+abc									</li>def1256 
+abc
+def1257 
+abc									<li><a href="#">Horzontal Menu 2</a></li>def1258 
+abc
+def1259 
+abc								</ul>def1260 
+abc
+def1261 
+abc								<!-- END PAGE TITLE & BREADCRUMB-->def1262 
+abc
+def1263 
+abc							</div>def1264 
+abc
+def1265 
+abc						</div>def1266 
+abc
+def1267 
+abc						<!-- END PAGE HEADER-->def1268 
+abc
+def1269 
+abc						<!-- BEGIN PAGE CONTENT-->def1270 
+abc
+def1271 
+abc						<div class="row-fluid margin-bottom-20">def1272 
+abc
+def1273 
+abc							<div class="span12">def1274 
+abc
+def1275 
+abc								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.def1276 
+abc
+def1277 
+abc								</p>def1278 
+abc
+def1279 
+abc								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.def1280 
+abc
+def1281 
+abc								</p>def1282 
+abc
+def1283 
+abc								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.def1284 
+abc
+def1285 
+abc								</p>def1286 
+abc
+def1287 
+abc							</div>def1288 
+abc
+def1289 
+abc						</div>def1290 
+abc
+def1291 
+abc						<div class="row-fluid">def1292 
+abc
+def1293 
+abc							<div class="span6">def1294 
+abc
+def1295 
+abc								<!-- BEGIN SAMPLE TABLE PORTLET-->def1296 
+abc
+def1297 
+abc								<div class="portlet box red">def1298 
+abc
+def1299 
+abc									<div class="portlet-title">def1300 
+abc
+def1301 
+abc										<div class="caption"><i class="icon-cogs"></i>Simple Table</div>def1302 
+abc
+def1303 
+abc										<div class="tools">def1304 
+abc
+def1305 
+abc											<a href="javascript:;" class="collapse"></a>def1306 
+abc
+def1307 
+abc											<a href="#portlet-config" data-toggle="modal" class="config"></a>def1308 
+abc
+def1309 
+abc											<a href="javascript:;" class="reload"></a>def1310 
+abc
+def1311 
+abc											<a href="javascript:;" class="remove"></a>def1312 
+abc
+def1313 
+abc										</div>def1314 
+abc
+def1315 
+abc									</div>def1316 
+abc
+def1317 
+abc									<div class="portlet-body">def1318 
+abc
+def1319 
+abc										<table class="table table-hover">def1320 
+abc
+def1321 
+abc											<thead>def1322 
+abc
+def1323 
+abc												<tr>def1324 
+abc
+def1325 
+abc													<th>#</th>def1326 
+abc
+def1327 
+abc													<th>First Name</th>def1328 
+abc
+def1329 
+abc													<th>Last Name</th>def1330 
+abc
+def1331 
+abc													<th class="hidden-480">Username</th>def1332 
+abc
+def1333 
+abc													<th>Status</th>def1334 
+abc
+def1335 
+abc												</tr>def1336 
+abc
+def1337 
+abc											</thead>def1338 
+abc
+def1339 
+abc											<tbody>def1340 
+abc
+def1341 
+abc												<tr>def1342 
+abc
+def1343 
+abc													<td>1</td>def1344 
+abc
+def1345 
+abc													<td>Mark</td>def1346 
+abc
+def1347 
+abc													<td>Otto</td>def1348 
+abc
+def1349 
+abc													<td class="hidden-480">makr124</td>def1350 
+abc
+def1351 
+abc													<td><span class="label label-success">Approved</span></td>def1352 
+abc
+def1353 
+abc												</tr>def1354 
+abc
+def1355 
+abc												<tr>def1356 
+abc
+def1357 
+abc													<td>2</td>def1358 
+abc
+def1359 
+abc													<td>Jacob</td>def1360 
+abc
+def1361 
+abc													<td>Nilson</td>def1362 
+abc
+def1363 
+abc													<td class="hidden-480">jac123</td>def1364 
+abc
+def1365 
+abc													<td><span class="label label-info">Pending</span></td>def1366 
+abc
+def1367 
+abc												</tr>def1368 
+abc
+def1369 
+abc												<tr>def1370 
+abc
+def1371 
+abc													<td>3</td>def1372 
+abc
+def1373 
+abc													<td>Larry</td>def1374 
+abc
+def1375 
+abc													<td>Cooper</td>def1376 
+abc
+def1377 
+abc													<td class="hidden-480">lar</td>def1378 
+abc
+def1379 
+abc													<td><span class="label label-warning">Suspended</span></td>def1380 
+abc
+def1381 
+abc												</tr>def1382 
+abc
+def1383 
+abc												<tr>def1384 
+abc
+def1385 
+abc													<td>3</td>def1386 
+abc
+def1387 
+abc													<td>Sandy</td>def1388 
+abc
+def1389 
+abc													<td>Lim</td>def1390 
+abc
+def1391 
+abc													<td class="hidden-480">sanlim</td>def1392 
+abc
+def1393 
+abc													<td><span class="label label-danger">Blocked</span></td>def1394 
+abc
+def1395 
+abc												</tr>def1396 
+abc
+def1397 
+abc											</tbody>def1398 
+abc
+def1399 
+abc										</table>def1400 
+abc
+def1401 
+abc									</div>def1402 
+abc
+def1403 
+abc								</div>def1404 
+abc
+def1405 
+abc								<!-- END SAMPLE TABLE PORTLET-->def1406 
+abc
+def1407 
+abc							</div>def1408 
+abc
+def1409 
+abc							<div class="span6">def1410 
+abc
+def1411 
+abc								<!-- BEGIN BORDERED TABLE PORTLET-->def1412 
+abc
+def1413 
+abc								<div class="portlet box yellow">def1414 
+abc
+def1415 
+abc									<div class="portlet-title">def1416 
+abc
+def1417 
+abc										<div class="caption"><i class="icon-coffee"></i>Bordered Table</div>def1418 
+abc
+def1419 
+abc										<div class="tools">def1420 
+abc
+def1421 
+abc											<a href="javascript:;" class="collapse"></a>def1422 
+abc
+def1423 
+abc											<a href="#portlet-config" data-toggle="modal" class="config"></a>def1424 
+abc
+def1425 
+abc											<a href="javascript:;" class="reload"></a>def1426 
+abc
+def1427 
+abc											<a href="javascript:;" class="remove"></a>def1428 
+abc
+def1429 
+abc										</div>def1430 
+abc
+def1431 
+abc									</div>def1432 
+abc
+def1433 
+abc									<div class="portlet-body">def1434 
+abc
+def1435 
+abc										<table class="table table-bordered table-hover">def1436 
+abc
+def1437 
+abc											<thead>def1438 
+abc
+def1439 
+abc												<tr>def1440 
+abc
+def1441 
+abc													<th>#</th>def1442 
+abc
+def1443 
+abc													<th>First Name</th>def1444 
+abc
+def1445 
+abc													<th>Last Name</th>def1446 
+abc
+def1447 
+abc													<th class="hidden-480">Username</th>def1448 
+abc
+def1449 
+abc													<th>Status</th>def1450 
+abc
+def1451 
+abc												</tr>def1452 
+abc
+def1453 
+abc											</thead>def1454 
+abc
+def1455 
+abc											<tbody>def1456 
+abc
+def1457 
+abc												<tr>def1458 
+abc
+def1459 
+abc													<td>1</td>def1460 
+abc
+def1461 
+abc													<td>Mark</td>def1462 
+abc
+def1463 
+abc													<td>Otto</td>def1464 
+abc
+def1465 
+abc													<td class="hidden-480">makr124</td>def1466 
+abc
+def1467 
+abc													<td><span class="label label-success">Approved</span></td>def1468 
+abc
+def1469 
+abc												</tr>def1470 
+abc
+def1471 
+abc												<tr>def1472 
+abc
+def1473 
+abc													<td>2</td>def1474 
+abc
+def1475 
+abc													<td>Jacob</td>def1476 
+abc
+def1477 
+abc													<td>Nilson</td>def1478 
+abc
+def1479 
+abc													<td class="hidden-480">jac123</td>def1480 
+abc
+def1481 
+abc													<td><span class="label label-info">Pending</span></td>def1482 
+abc
+def1483 
+abc												</tr>def1484 
+abc
+def1485 
+abc												<tr>def1486 
+abc
+def1487 
+abc													<td>3</td>def1488 
+abc
+def1489 
+abc													<td>Larry</td>def1490 
+abc
+def1491 
+abc													<td>Cooper</td>def1492 
+abc
+def1493 
+abc													<td class="hidden-480">lar</td>def1494 
+abc
+def1495 
+abc													<td><span class="label label-warning">Suspended</span></td>def1496 
+abc
+def1497 
+abc												</tr>def1498 
+abc
+def1499 
+abc												<tr>def1500 
+abc
+def1501 
+abc													<td>3</td>def1502 
+abc
+def1503 
+abc													<td>Sandy</td>def1504 
+abc
+def1505 
+abc													<td>Lim</td>def1506 
+abc
+def1507 
+abc													<td class="hidden-480">sanlim</td>def1508 
+abc
+def1509 
+abc													<td><span class="label label-danger">Blocked</span></td>def1510 
+abc
+def1511 
+abc												</tr>def1512 
+abc
+def1513 
+abc											</tbody>def1514 
+abc
+def1515 
+abc										</table>def1516 
+abc
+def1517 
+abc									</div>def1518 
+abc
+def1519 
+abc								</div>def1520 
+abc
+def1521 
+abc								<!-- END BORDERED TABLE PORTLET-->def1522 
+abc
+def1523 
+abc							</div>def1524 
+abc
+def1525 
+abc						</div>def1526 
+abc
+def1527 
+abc					</div>def1528 
+abc
+def1529 
+abc				</div>def1530 
+abc
+def1531 
+abc				<!-- END PAGE CONTENT-->def1532 
+abc
+def1533 
+abc			</div>def1534 
+abc
+def1535 
+abc			<!-- END PAGE CONTAINER--> def1536 
+abc
+def1537 
+abc		</div>def1538 
+abc
+def1539 
+abc		<!-- END PAGE -->    def1540 
+abc
+def1541 
+abc	</div>def1542 
+abc
+def1543 
+abc	<!-- END CONTAINER -->def1544 
+abc
+def1545 
+abc	<!-- BEGIN FOOTER -->def1546 
+abc
+def1547 
+abc	<div class="footer">def1548 
+abc
+def1549 
+abc		<div class="footer-inner">def1550 
+abc
+def1551 
+abc			2013 &copy; Metronic by keenthemes.def1552 
+abc
+def1553 
+abc		</div>def1554 
+abc
+def1555 
+abc		<div class="footer-tools">def1556 
+abc
+def1557 
+abc			<span class="go-top">def1558 
+abc
+def1559 
+abc			<i class="icon-angle-up"></i>def1560 
+abc
+def1561 
+abc			</span>def1562 
+abc
+def1563 
+abc		</div>def1564 
+abc
+def1565 
+abc	</div>def1566 
+abc
+def1567 
+abc	<!-- END FOOTER -->def1568 
+abc
+def1569 
+abc	<!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->def1570 
+abc
+def1571 
+abc	<!-- BEGIN CORE PLUGINS -->def1572 
+abc
+def1573 
+abc	<script src="media/js/jquery-1.10.1.min.js" type="text/javascript"></script>def1574 
+abc
+def1575 
+abc	<script src="media/js/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>def1576 
+abc
+def1577 
+abc	<!-- IMPORTANT! Load jquery-ui-1.10.1.custom.min.js before bootstrap.min.js to fix bootstrap tooltip conflict with jquery ui tooltip -->def1578 
+abc
+def1579 
+abc	<script src="media/js/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script>      def1580 
+abc
+def1581 
+abc	<script src="media/js/bootstrap.min.js" type="text/javascript"></script>def1582 
+abc
+def1583 
+abc	<!--[if lt IE 9]>def1584 
+abc
+def1585 
+abc	<script src="media/js/excanvas.min.js"></script>def1586 
+abc
+def1587 
+abc	<script src="media/js/respond.min.js"></script>  def1588 
+abc
+def1589 
+abc	<![endif]-->   def1590 
+abc
+def1591 
+abc	<script src="media/js/jquery.slimscroll.min.js" type="text/javascript"></script>def1592 
+abc
+def1593 
+abc	<script src="media/js/jquery.blockui.min.js" type="text/javascript"></script>  def1594 
+abc
+def1595 
+abc	<script src="media/js/jquery.cookie.min.js" type="text/javascript"></script>def1596 
+abc
+def1597 
+abc	<script src="media/js/jquery.uniform.min.js" type="text/javascript" ></script>def1598 
+abc
+def1599 
+abc	<!-- END CORE PLUGINS -->def1600 
+abc
+def1601 
+abc	<script src="media/js/app.js"></script>      def1602 
+abc
+def1603 
+abc	<script>def1604 
+abc
+def1605 
+abc		jQuery(document).ready(function() {    def1606 
+abc
+def1607 
+abc		   App.init();def1608 
+abc
+def1609 
+abc		});def1610 
+abc
+def1611 
+abc	</script>def1612 
+abc
+def1613 
+abc	<!-- END JAVASCRIPTS -->def1614 
+abc
+def1615 
+abc<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-37564768-1']);  _gaq.push(['_setDomainName', 'keenthemes.com']);  _gaq.push(['_setAllowLinker', true]);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script></body>def1616 
+abc
+def1617 
+abc<!-- END BODY -->def1618 
+abc
+def1619 
+abc</html>def1620 

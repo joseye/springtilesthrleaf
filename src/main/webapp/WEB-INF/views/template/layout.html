@@ -1,0 +1,53 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-spring3-3.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:tiles="http://www.thymeleaf.org">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+<title>main</title>
+<link th:href="@{/resources/css/css.css}" href="../resources/css/css.css" rel="stylesheet"></link>
+</head>
+<body>
+ <div id="wrap">
+      <div class="navbar navbar-inverse navbar-static-top">
+        <div class="navbar-inner">
+          <div class="container">
+            <div class="nav-collapse collapse">
+              <div th:if="${#httpServletRequest.remoteUser != null}">
+                  <form class="navbar-form pull-right" th:action="@{/logout}" method="post">
+                      <input type="submit" value="Log out" />
+                  </form>
+                  <p class="navbar-text pull-right" th:text="${#httpServletRequest.remoteUser}">
+                    sample_user
+                  </p>
+              </div>
+              <ul class="nav">
+                <li><a th:href="@{/}">Inbox</a></li>
+                <li><a th:href="@{/(form)}">Compose</a></li>
+              </ul>
+            </div>
+          </div>
+      </div>
+    </div>
+      <!-- Begin page content -->
+      <div class="container">
+        <div class="alert alert-success"
+              th:if="${globalMessage}"
+              th:text="${globalMessage}">
+            Some Success message
+        </div>
+        <div tiles:substituteby="content">
+            Fake content
+        </div>
+      </div>
+
+      <div id="push"><!--  --></div>
+    </div>
+
+    <div id="footer"  tiles:substituteby="foot" >
+      <div class="container">
+        <p class="muted credit">Visit the <a href="http://spring.io/spring-security">Spring Security</a> site for more <a href="https://github.com/spring-projects/spring-security/blob/master/samples/">samples</a>.</p>
+      </div>
+    </div>
+</body>
+</html>

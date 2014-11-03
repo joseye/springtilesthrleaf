@@ -1,0 +1,6 @@
+	<link href="../../resources/css/bootstrap.min.css" @{/resources/css/bootstrap.min.css} rel="stylesheet" type="text/css"/>
+	<link href="../../resources/css/style.css" @{/resources/css/style.css} rel="stylesheet" type="text/css"/>
+	<link href="../../resources/css/default.css" @{/resources/css/default.css} rel="stylesheet" type="text/css" id="style_color"/>
+	<link href="../../resources/css/uniform.default.css" @{/resources/css/uniform.default.css} rel="stylesheet" type="text/css"/>
+	<link href="../../resources/css/login.css" @{/resources/css/login.css} rel="stylesheet" type="text/css"/>
+	<link rel="shortcut icon" href="../../resources/image/favicon.ico" @{/resources/image/favicon.ico} />
